@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Here's What to Do
+## Getting Started with Git
 
 - Step 1
 - Step 2
