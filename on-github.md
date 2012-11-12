@@ -4,7 +4,7 @@ layout: default
 
 ## Agencies on Github
 
-<a class="btn btn-mini pull-right forkModalTrigger" href="https://github.com/lukecharde/govgit">Edit this Page</a>
+<button class="btn btn-mini pull-right forkModalTrigger" href="https://github.com/lukecharde/govgit">Edit this Page</button>
 
 - FCC
 - Nasa
