@@ -510,6 +510,6 @@ form h4 {
     }
 
     .modal {
-        top: 0 !important;
+        top: 25px !important;
     }
 }

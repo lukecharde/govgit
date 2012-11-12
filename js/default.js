@@ -20,8 +20,17 @@ $(document).ready(function()
 		return false;
 	})
 
+	$('.forkGovGit').on('click', function(){
+		forkGovGit();
+		return false;
+	})	
+
 	function forkModal(){
 		$('#myModal').modal();
+	}
+
+	function forkGovGit(){
+		window.location = "https://github.com/lukecharde/govgit";
 	}
 	
 }); 
