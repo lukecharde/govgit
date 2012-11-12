@@ -13,37 +13,23 @@ layout: default
         <div class="span12 box drop-shadow">
             <div class="row">
                 <article class="span6 offset1">
-                    <h3>HTML5 goodness, open fonts.</h3>
-                    <p>Kickstarter user engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market
-                    pivot onboarding freemium prototype ping pong.
-                    Early stage disruptive ecosystem community outreach dynamic location based strategic investor. 
+                    <h3>Git</h3>
+                    <p>Git is an extremely fast, efficient, distributed version control system ideal for the collaborative development of software. 
                     </p>
                 </article>
                 <div class="span4">
-                    <img src="img/pics/placeholder_200.png" alt="placeholder" />
+                    <img src="img/pics/overview-git.jpg" alt="Git" />
                 </div>
             </div>
             <div class="row">
                 <div class="span4 offset1">
-                    <img src="img/pics/placeholder_200.png" alt="placeholder" />
+                    <img src="img/pics/overview-github.jpg" alt="Github" />
                 </div>
                 <article class="span6">
-                    <h3>Fully responsive design.</h3>
-                    <p>Accelerator photo sharing business school drop out ramen hustle crush it revenue traction platforms.
-                    Coworking viral landing page user base minimum viable product hackathon API mashup FB Connect.</p>
+                    <h3>GitHub</h3>
+                    <p>GitHub is a cloud based Git service platform that enables collaboration and repository management. Public
+                    	repositories are free and unlimited.</p>
                 </article>
-            </div>
-            <div class="row">
-                <article class="span6 offset1">
-                    <h3>Use this as a base.</h3>
-                    <p>Tablet publishing HTML5 mobile first really simple syndication meetups white board walls.
-                    User experience iterate algorithm gamification semantic web value add market research stealth.
-                    Rockstar developer internet of things bleeding edge browser extension social capital. 
-                    </p>
-                </article>
-                <div class="span4">
-                    <img src="img/pics/placeholder_200.png" alt="placeholder" />
-                </div>
             </div>
         </div>
     </div>
