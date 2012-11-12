@@ -9,7 +9,7 @@ title: In the News
 
 <div class="news-items">
 
-- [**2012-04-09** U.S. Consumer Financial Protection Bureau Gets Open Source, Publishes on GitHub](http://techcrunch.com/2012/04/09/u-s-consumer-financial-protection-bureau-gets-open-source-publishes-on-github/)
-- [**2012-06-06** Is GitHub Government's Next Big Thing?](http://fedscoop.com/is-github-governments-next-big-thing/)
+- [2012-04-09 U.S. Consumer Financial Protection Bureau Gets Open Source, Publishes on GitHub](http://techcrunch.com/2012/04/09/u-s-consumer-financial-protection-bureau-gets-open-source-publishes-on-github/)
+- [2012-06-06 Is GitHub Government's Next Big Thing?](http://fedscoop.com/is-github-governments-next-big-thing/)
 
 </div>
