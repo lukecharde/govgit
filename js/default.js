@@ -14,13 +14,13 @@ $(document).ready(function()
 		forkModal();
 	}
 
-	$('.forkModalTrigger').on('click', function(){
+	$('a.forkModalTrigger').on('click', function(){
 		console.log(".forkModalTrigger'd");
 		forkModal();
 		return false;
 	})
 
-	forkModal(){
+	function forkModal(){
 		$('#myModal').modal();
 	}
 	
