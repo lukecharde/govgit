@@ -8,11 +8,11 @@ GovGit.info](http://GovGit.info) is a knowledge-base of how Git and Github are b
 - Provide a Git/Github "on-ramp" from a government perspective.
 
 ## About
-- GovGit.info was originally a project for a presentation at the - [NYS Capitol Camp 2012 Bar Camp](http://capitolcamp.tumblr.com/) to help expose the federal efforts in code collaboration to a state level audience
+- GovGit.info was originally a project for a presentation at the - [NYS Capitol Camp 2012 Bar Camp](http://capitolcamp.tumblr.com/) to help expose the early .gov efforts in code collaboration to a state level audience.
 
 ## Editing the Site
-- Fork
-- Edit in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+- Fork this repo
+- Edit a main page in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 - Issue a Pull Request
 - Pull requests are merged into a <code>gh-pages</code> branch which is generated through Jekyll](http://jekyllrb.com/) into a shiny responsive website which is reachable at "GovGit.info"
 
