@@ -18,6 +18,7 @@ $(document).ready(function()
 
 	forkModal(){
 		$('#myModal').modal();
+		return false;
 	}
 	
 }); 
