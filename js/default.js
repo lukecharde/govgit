@@ -11,6 +11,12 @@ $(document).ready(function()
 	}
 
 	if (location.hash == "#fork") {
+		forkModal();
+	}
+
+	$('.forkModalTrigger').on('click', forkModal();)
+
+	forkModal(){
 		$('#myModal').modal();
 	}
 	
