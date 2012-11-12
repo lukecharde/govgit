@@ -9,5 +9,9 @@ $(document).ready(function()
 	if (window.location.pathname.indexOf("html") === -1) {
 		$('#overview').addClass("active");
 	}
+
+	if (window.location.hash == "fork") {
+		$('#myModal').modal();
+	}
 	
 }); 
