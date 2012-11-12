@@ -6,5 +6,8 @@ $(document).ready(function()
 			$(this).parent().addClass("active"); 						  
 	});
 
- 
+	if (window.location.pathname.indexOf("html") = -1) {
+		$('#overview').addClass("active");
+	}
+	
 }); 
