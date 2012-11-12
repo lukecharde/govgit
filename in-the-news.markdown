@@ -9,10 +9,20 @@ title: In the News
 
 <div class="in-the-news">
 
-* [2012-04-09 U.S. Consumer Financial Protection Bureau Gets Open Source, Publishes on GitHub](http://techcrunch.com/2012/04/09/u-s-consumer-financial-protection-bureau-gets-open-source-publishes-on-github/)
-* [2012-06-06 Is GitHub Government's Next Big Thing?](http://fedscoop.com/is-github-governments-next-big-thing/)
+	<dl>
 
-2012-04-23
-: [White House Open Sources We the People App on GitHub](http://gigaom.com/cloud/white-house-open-sources-we-the-people-petition-app/)
+		<dt>2012-04-09</dt>
+		<dd> <a href="http://techcrunch.com/2012/04/09/u-s-consumer-financial-protection-bureau-gets-open-source-publishes-on-github/">U.S. Consumer Financial Protection Bureau Gets Open Source, Publishes on GitHub</a> 
+		</dd>
+
+		<dt>2012-04-23</dt>
+		<dd> <a href="http://gigaom.com/cloud/white-house-open-sources-we-the-people-petition-app/">White House Open Sources We the People App on GitHub</a> 
+		</dd>	
+
+		<dt>2012-06-06</dt>
+		<dd> <a href="http://fedscoop.com/is-github-governments-next-big-thing/">Is GitHub Government's Next Big Thing?</a> 
+		</dd>
+
+	</dl>
 
 </div>
