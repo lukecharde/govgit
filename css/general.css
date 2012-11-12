@@ -490,9 +490,10 @@ form h4 {
     .box {
         padding:15px;
     }
+
 }
 
-/*@media (max-width: 480px) {
+@media (max-width: 480px) {
     h2 {
         font-size:32px;
         line-height:36px;
@@ -507,4 +508,8 @@ form h4 {
         padding-top:0;
         margin-top:30px;
     }
-}*/
+
+    .modal {
+        top: 0 !important;
+    }
+}
