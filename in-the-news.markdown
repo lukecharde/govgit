@@ -1,8 +1,9 @@
 ---
 layout: default
+title: In the News
 ---
 
-<h2>In the News</h2>
+<h2>{{ page.title }}</h2>
 
 <a class="btn btn-mini pull-right forkModalTrigger" href="https://github.com/lukecharde/govgit">Edit this Page</a>
 
