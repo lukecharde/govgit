@@ -10,7 +10,7 @@ $(document).ready(function()
 		$('#overview').addClass("active");
 	}
 
-	if (window.location.hash == "fork") {
+	if (location.hash == "#fork") {
 		$('#myModal').modal();
 	}
 	
