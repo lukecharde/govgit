@@ -22,14 +22,21 @@ layout: default
                 </div>
             </div>
             <div class="row">
-                <article class="span5">
-                    <p>video</p>
+                <div class="span4 offset1">
+                    <img src="img/pics/overview-github.jpg" alt="Github" />
+                </div>
+                <article class="span6">
+                    <h3>GitHub</h3>
+                    <p>GitHub is a cloud based Git service platform that enables collaboration and repository management. Public
+                    	repositories are free and unlimited.</p>
                 </article>
             </div>
         </div>
 
         <div class="span12 box drop-shadow">
-
+        	<ul class="double-feature">
+        		<li>Video</li>
+        	</ul>
         </div>
 
     </div>
