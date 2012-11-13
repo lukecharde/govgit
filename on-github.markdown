@@ -42,9 +42,19 @@ title: Agencies on Github
 		<dt>NY Senate</dt>
 		<dd><iframe src="http://ghbtns.com/github-btn.html?user=nysenate&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe></dd>	  
 
+  <h3>Civic Projects</h3>	
+
+		<dt>Open Gov Platform</dt>
+		<dd><iframe src="http://ghbtns.com/github-btn.html?user=opengovplatform&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe></dd>	  
+
   </div>
 
   <div class="span4">
+
+  <h3>International</h3>
+
+		<dt>United Kingdom</dt>
+		<dd><iframe src="http://ghbtns.com/github-btn.html?user=alphagov&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe></dd>	
 
   <h3>Local</h3>
 
