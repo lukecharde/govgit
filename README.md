@@ -12,7 +12,7 @@ GovGit.info](http://GovGit.info) is a knowledge-base of how Git and Github are b
 
 ## Editing the Site
 - Fork this repo
-- Edit a main page in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+- Edit a page: add a tutorial, agency, news article, etc.
 - Issue a Pull Request
 - Pull requests are merged into a <code>gh-pages</code> branch which is generated through Jekyll](http://jekyllrb.com/) into a shiny responsive website which is reachable at "GovGit.info"
 

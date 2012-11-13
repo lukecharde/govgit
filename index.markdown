@@ -40,6 +40,6 @@ layout: default
         </div>
 </div>
 
-    ### Further Reading
+### Further Reading
 
-	- [Open Source for Government](http://ben.balter.com/open-source-for-government/) A collaborative resource for government employees looking to participate in the open source community - by Ben Balter, Executive Office of the President, Presidential Innovation Fellow
+- [Open Source for Government](http://ben.balter.com/open-source-for-government/) A collaborative resource for government employees looking to participate in the open source community - by Ben Balter, Executive Office of the President, Presidential Innovation Fellow
