@@ -1,7 +1,7 @@
 GovGit
 ======
 
-GovGit.info](http://GovGit.info) is a knowledge-base of how Git and Github are being used in all levels of government.
+[GovGit.info](http://GovGit.info) is a knowledge-base of how Git and Github are being used in all levels of government.
 
 ## Goals
 - Represent Git and GitHub as powerful tools in helping governments accomplish the **"Shared Platform"** goals outlined in the [Federal Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html)
