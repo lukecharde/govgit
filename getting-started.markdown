@@ -16,5 +16,6 @@ title: Getting Started with Git
 - [Introduction to Git (video)](http://www.youtube.com/watch?v=ZDR433b0HJY)
 - [GitHub: Collaboration is Evolving (video)](http://www.youtube.com/watch?v=ZJEvpxEq3Ms)
 - [How Git will One Day Transform Government (video)](http://www.youtube.com/watch?v=CEN4XNth61o)
+- [Git and GitHub Secrets - Zach Holman (presentation/video)](http://confreaks.com/videos/1229-aloharuby2012-git-and-github-secrets)
 
 
