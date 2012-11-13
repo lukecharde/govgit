@@ -8,6 +8,11 @@ p {
     text-shadow:#fff 0 1px 0;
 }
 
+p, li {
+    font-size: 16px;
+    line-height: 24px;
+}
+
 a:link, a:visited {
     color:#338bb8;
     text-decoration:none;
