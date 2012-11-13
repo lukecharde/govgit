@@ -40,12 +40,6 @@ layout: default
         </div>
 </div>
 
-{% comment %}Trick Maruku into rendering the table of contents which requires an H1 tag within the markdown{% endcomment %}# &nbsp;{.hidden}
-
-### Contents
-
-* Table of Contents
-{:toc}
 
 ## Why Open Source and Government
 
@@ -57,9 +51,7 @@ Last, in that same example, let's say as that startup is adopting Agency X's cod
 
 More broadly, publicly funded code, is well, the public's code. It'd be like building a highway, but saying only firetrucks and police cars can use it, even though that's only a fraction of its potential. We see this most analogously with research grants in the scientific, academic, and medical communities, and the requirement to publish scholarly works and research findings that result from public funding.
 
-## Open Source Community Building
 
-Open source is referred to as a community, because that's what it is. Open source isn't a source of free labor or an avenue to sporadically garner goodwill from Silicon Valley, nor is the release of open source software tantamount to the release of a press release or policy document. Open source is about fostering a space in which like-minded enthusiasts — coders, designers, user experience experts, even the users themselves — can come together and create something for their mutual benefit, a something that is almost without exception, greater than the sum of the individual parts. As such, when beginning an open source project, special steps must be taken to encourage community involvement.
 
 ### Further Reading
 
