@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Getting Started with Git
 ---
 
-## Getting Started with Git
+<h2>{{ page.title }}</h2>
 
 <a class="btn btn-mini pull-right forkModalTrigger" href="https://github.com/lukecharde/govgit">Edit this Page</a>
 

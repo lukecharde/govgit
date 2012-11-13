@@ -7,30 +7,11 @@ title: In the News
 
 <a class="btn btn-mini pull-right forkModalTrigger" href="https://github.com/lukecharde/govgit">Edit this Page</a>
 
-<div class="in-the-news link-list">
 
-	<dl>
-
-		<dt>2012-06-06</dt>
-		<dd> <a href="http://fedscoop.com/is-github-governments-next-big-thing/">Is GitHub Government's Next Big Thing?</a> 
-		</dd>	
-
-		<dt>2012-04-23</dt>
-		<dd> <a href="http://gigaom.com/cloud/white-house-open-sources-we-the-people-petition-app/">White House Open Sources We the People App on GitHub</a> 
-		</dd>	
-
-		<dt>2012-04-15</dt>
-		<dd> <a href="http://ben.balter.com/2012/04/15/cfpb-accepts-first-citizen-submitted-pull-request-on-behalf-of-federal-government/">CFPB Accepts First Citizen-Submitted Code on Behalf of Federal Government</a> 
-		</dd>
-
-		<dt>2012-04-09</dt>
-		<dd> <a href="http://techcrunch.com/2012/04/09/u-s-consumer-financial-protection-bureau-gets-open-source-publishes-on-github/">U.S. Consumer Financial Protection Bureau Gets Open Source, Publishes on GitHub</a> 
-		</dd>
+* 2012-06-06 [Is GitHub Government's Next Big Thing?](http://fedscoop.com/is-github-governments-next-big-thing/)
+* 2012-04-23 [White House Open Sources We the People App on GitHub](http://gigaom.com/cloud/white-house-open-sources-we-the-people-petition-app/)
+* 2012-04-15 [CFPB Accepts First Citizen-Submitted Pull Request on Behalf of Federal Government](http://ben.balter.com/2012/04/15/cfpb-accepts-first-citizen-submitted-pull-request-on-behalf-of-federal-government/)
+* 2012-04-09 [U.S. Consumer Financial Protection Bureau Gets Open Source, Publishes on GitHub](http://techcrunch.com/2012/04/09/u-s-consumer-financial-protection-bureau-gets-open-source-publishes-on-github/) 	
 
 
 
-
-
-	</dl>
-
-</div>

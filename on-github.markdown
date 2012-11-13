@@ -7,12 +7,11 @@ title: Agencies on Github
 
 <a class="btn btn-mini pull-right forkModalTrigger" href="https://github.com/lukecharde/govgit">Edit this Page</a>
 
-<div class="on-github row-fluid">
-
+<div class="on-github row-fluid">  <!-- Going with HTML instead of Markdown so we can have the rad GitHub badges -->
 
   <div class="span4">
 
-	<h3>Federal</h3>
+	<h3>Federal</h3> 
 
 	<dl>
 
