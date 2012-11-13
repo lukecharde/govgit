@@ -475,6 +475,13 @@ form h4 {
 
 /*** MEDIA QUERIES ****/
 
+@media (min-width: 768px) and (max-width: 979px) {
+    .navbar .nav {
+        width: 100%%;
+        margin: 20px;
+    }
+}
+
 @media (max-width: 767px) {
     
     .navbar .brand {
@@ -486,8 +493,6 @@ form h4 {
         clear:both;
         margin-top:15px;
         float:none;
-        width: 100%;
-        margin: 20px 0 0 0;
     }
     
     .navbar .nav li {
