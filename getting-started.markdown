@@ -6,14 +6,14 @@ layout: default
 
 <a class="btn btn-mini pull-right forkModalTrigger" href="https://github.com/lukecharde/govgit">Edit this Page</a>
 
-## Learning to Use Git
+### Learning to Use Git
 
 - [Learn Git in 15 Minutes (interactive tutorial)](http://try.github.com/)
 
-## Understanding Git and Github
+### Understanding Git and Github
 
-- VIDEO: [Scott Chacon: Introduction to Git](http://www.youtube.com/watch?v=ZDR433b0HJY)
-- VIDEO: [Tom Preston-Werner: Collaboration is Evolving](http://www.youtube.com/watch?v=ZJEvpxEq3Ms)
-- VIDEO: [Clay Shirky: How Git will (one day) Transform Government](http://www.youtube.com/watch?v=CEN4XNth61o)
+- [Introduction to Git (video)](http://www.youtube.com/watch?v=ZDR433b0HJY)
+- [GitHub: Collaboration is Evolving (video)](http://www.youtube.com/watch?v=ZJEvpxEq3Ms)
+- [How Git will One Day Transform Government (video)](http://www.youtube.com/watch?v=CEN4XNth61o)
 
 
