@@ -62,7 +62,6 @@ title: Agencies on Github
 		<dt>Canada Web Experience Toolkit</dt>
 		<dd><iframe src="http://ghbtns.com/github-btn.html?user=wet-boew&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="225" height="20"></iframe></dd>			
 
-  <h3>Local</h3>
 
   </div>
 
