@@ -9,36 +9,13 @@ layout: default
     </div>
 </div>
 
-<div class="row">
-        <div class="span12 box drop-shadow">
-            <div class="row">
-                <article class="span6 offset1">
-                    <h3>Git</h3>
-                    <p>Git is an extremely fast, efficient, distributed version control system ideal for the collaborative development of software. 
-                    </p>
-                </article>
-                <div class="span4">
-                    <img src="img/pics/overview-git.jpg" alt="Git" />
-                </div>
-            </div>
-            <div class="row">
-                <div class="span4 offset1">
-                    <img src="img/pics/overview-github.jpg" alt="Github" />
-                </div>
-                <article class="span6">
-                    <h3>GitHub</h3>
-                    <p>GitHub is a cloud based Git service platform that enables collaboration and repository management. Public
-                    	repositories are free and unlimited.</p>
-                </article>
-            </div>
-        </div>
+### Git
 
-        <div class="span12 box drop-shadow">
-        	<ul class="double-feature">
-        		<li>Video</li>
-        	</ul>
-        </div>
-</div>
+Git is an extremely fast, efficient, distributed version control system ideal for the collaborative development of software. 
+
+### Github
+
+GitHub is a cloud based Git service platform that enables collaboration and repository management. Open source repositories are free and unlimited.
 
 
 ## Why Open Source and Government
