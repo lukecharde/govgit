@@ -7,7 +7,7 @@ title: In the News
 
 <a class="btn btn-mini pull-right forkModalTrigger" href="https://github.com/lukecharde/govgit">Edit this Page</a>
 
-<div class="in-the-news">
+<div class="in-the-news link-list">
 
 	<dl>
 
