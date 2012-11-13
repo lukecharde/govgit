@@ -38,8 +38,7 @@ layout: default
         		<li>Video</li>
         	</ul>
         </div>
-
-    </div>
+</div>
 
     ### Further Reading
 
