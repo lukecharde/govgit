@@ -6,7 +6,10 @@ layout: default
 
 <a class="btn btn-mini pull-right forkModalTrigger" href="https://github.com/lukecharde/govgit">Edit this Page</a>
 
-<div class="on-github">
+<div class="on-github row-fluid">
+
+
+  <div class="span4">
 
 	<h3>Federal</h3>
 
@@ -26,7 +29,22 @@ layout: default
 
 	</dl>
 
+  </div>
 
+  <div class="span4">
+
+  <h3>State</h3>
+
+		<dt>NY Senate</dt>
+		<dd><iframe src="http://ghbtns.com/github-btn.html?user=nysenate&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe></dd>	  
+
+  </div>
+
+  <div class="span4">
+
+  <h3>Local</h3>
+
+  </div>
 
 
 </div>
