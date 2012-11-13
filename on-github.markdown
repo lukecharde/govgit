@@ -3,11 +3,13 @@ layout: default
 title: Agencies on Github
 ---
 
+<!-- Going with HTML instead of Markdown so we can have the rad GitHub badges -->
+
 <h2>{{ page.title }}</h2>
 
 <a class="btn btn-mini pull-right forkModalTrigger" href="https://github.com/lukecharde/govgit">Edit this Page</a>
 
-<div class="on-github row-fluid">  <!-- Going with HTML instead of Markdown so we can have the rad GitHub badges -->
+<div class="on-github row-fluid">  
 
   <div class="span4">
 
