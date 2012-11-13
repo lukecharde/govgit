@@ -18,7 +18,7 @@ Git is an extremely fast, efficient, distributed version control system ideal fo
 GitHub is a cloud based Git service platform that enables collaboration and repository management. Open source repositories are free and unlimited.
 
 
-## Why Open Source and Government
+### Why Open Source and Government
 
 Why not? Think about why we have proprietary software. Google doesn't share the code powering its search algorithm for fear that a competitor could benefit. That's their secret sauce. It'd be like Coca Cola sharing its secret formula. But outside certain military contexts, with public code, there's no competitor. In fact, quite the opposite's the case. If agency X writes a better way to store and publish content, and agency Y adopts it, that's a good thing for both the agencies and for the American people. It creates an efficiency across government that would not otherwise exist. Put another way, we're all on the same team here.
 

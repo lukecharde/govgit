@@ -13,6 +13,11 @@ p, li {
     line-height: 24px;
 }
 
+.nav li, .footer li {
+    font-size: 14px;
+    line-height: 18px;
+}
+
 a:link, a:visited {
     color:#338bb8;
     text-decoration:none;
