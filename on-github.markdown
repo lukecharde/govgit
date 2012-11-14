@@ -34,6 +34,9 @@ NASA
 National Archives 
 : [https://github.com/usnationalarchives](https://github.com/usnationalarchives)
 
+Presidential Innovation Fellows
+: [https://github.com/presidential-innovation-fellows](https://github.com/presidential-innovation-fellows)
+
 The White House 
 : [https://github.com/whitehouse](https://github.com/whitehouse) 
 
@@ -49,6 +52,12 @@ New York State Senate
 
 ### Civic Projects
 
+Code for America
+: [https://github.com/codeforamerica](https://github.com/codeforamerica)
+
+OpenGovernment
+: [https://github.com/opengovernment](https://github.com/opengovernment)
+
 Open Gov Platform
 : [https://github.com/opengovplatform](https://github.com/opengovplatform)
  
@@ -58,6 +67,12 @@ Open Gov Platform
  +--{.span4}
  
 ### International
+
+Australia
+: [https://github.com/openaustralia](https://github.com/openaustralia)
+
+Buenos Aires City Government
+: [https://github.com/gcba](https://github.com/gcba)
  
 Canada Web Experience Toolkit
 : [https://github.com/wet-boew](https://github.com/wet-boew)
