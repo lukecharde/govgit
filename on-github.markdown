@@ -71,9 +71,6 @@ The White House
  
 ### State 
  
-New York State Dept of Labor
-: [https://github.com/nyslabor](https://github.com/nyslabor)
-
 New York State Senate
 : [https://github.com/nysenate](https://github.com/nysenate)
 
