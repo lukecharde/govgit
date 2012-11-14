@@ -1,0 +1,4 @@
+{"ts":1352858157511,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"site_name: 'GovGit'\nsite_url: 'http://localhost:4000'\nmarkdown: kramdown\nrdiscount:\n    extensions: [smart]\npermalink: /articles/:title\npaginate: 3"]],"start1":0,"start2":0,"length1":0,"length2":147}]],"length":147}
+{"contributors":[],"silentsave":false,"ts":1352859368767,"patch":[[{"diffs":[[0,"wn: "],[-1,"kramdown"],[1,"maruku"],[0,"\nrdi"]],"start1":60,"start2":60,"length1":16,"length2":14}]],"length":145,"saved":false}
+{"ts":1352859411169,"patch":[[{"diffs":[[0,"wn: "],[-1,"maruku"],[1,"rdiscount"],[0,"\nrdi"]],"start1":60,"start2":60,"length1":14,"length2":17}]],"length":148,"saved":false}
+{"ts":1352859640547,"patch":[[{"diffs":[[0,"rkdown: "],[-1,"rdiscount"],[1,"maruku"],[0,"\nrdiscou"]],"start1":56,"start2":56,"length1":25,"length2":22}]],"length":145,"saved":false}

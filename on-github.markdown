@@ -9,66 +9,65 @@ title: Agencies on Github
 
 <a class="btn btn-mini pull-right forkModalTrigger" href="https://github.com/lukecharde/govgit">Edit this Page</a>
 
-<div class="on-github row-fluid">  
-
-  <div class="span4">
-
-	<h3>Federal</h3> 
-
-	<dl>
-
-		<dt>NASA</dt>
-		<dd><iframe src="http://ghbtns.com/github-btn.html?user=nasa&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="225" height="20"></iframe></dd>	
-
-		<dt>Consumer Financial Protection Bureau</dt>
-		<dd><iframe src="http://ghbtns.com/github-btn.html?user=CFPB&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="225" height="20"></iframe></dd>
-
-		<dt>The White House</dt>
-		<dd><iframe src="http://ghbtns.com/github-btn.html?user=WhiteHouse&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="225" height="20"></iframe></dd>
-
-		<dt>FCC</dt>
-		<dd><iframe src="http://ghbtns.com/github-btn.html?user=FCC&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="225" height="20"></iframe></dd>	
-
-		<dt>GSA</dt>
-		<dd><iframe src="http://ghbtns.com/github-btn.html?user=GSA&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="225" height="20"></iframe></dd>	
-
-		<dt>National Archives</dt>
-		<dd><iframe src="http://ghbtns.com/github-btn.html?user=usnationalarchives&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="225" height="20"></iframe></dd>			
-
-		<dt>EPA</dt>
-		<dd><iframe src="http://ghbtns.com/github-btn.html?user=USEPA&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="225" height="20"></iframe></dd>						
-
-	</dl>
-
-  </div>
-
-  <div class="span4">
-
-  <h3>State</h3>
-
-		<dt>NY Senate</dt>
-		<dd><iframe src="http://ghbtns.com/github-btn.html?user=nysenate&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="225" height="20"></iframe></dd>	  
-
-  <h3>Civic Projects</h3>	
-
-		<dt>Open Gov Platform</dt>
-		<dd><iframe src="http://ghbtns.com/github-btn.html?user=opengovplatform&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="225" height="20"></iframe></dd>	  
-
-  </div>
-
-  <div class="span4">
-
-  <h3>International</h3>
-
-		<dt>United Kingdom</dt>
-		<dd><iframe src="http://ghbtns.com/github-btn.html?user=alphagov&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="225" height="20"></iframe></dd>	
-
-		<dt>Canada Web Experience Toolkit</dt>
-		<dd><iframe src="http://ghbtns.com/github-btn.html?user=wet-boew&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="225" height="20"></iframe></dd>			
++--{.on-github .row-fluid}
 
 
-  </div>
+ +--{.span4}
+ 
+### Federal
+ 
+Consumer Financial Protection Bureau 
+: [https://github.com/CFPB](https://github.com/CFPB)
+
+Environmental Protection Agency 
+: [https://github.com/USEPA](https://github.com/USEPA)
+
+Federal Communications Commission 
+: [https://github.com/FCC](https://github.com/FCC) 
+
+General Services Administration 
+: [https://github.com/GSA](https://github.com/GSA) 
+
+NASA 
+: [https://github.com/NASA](https://github.com/NASA) 
+
+National Archives 
+: [https://github.com/usnationalarchives](https://github.com/usnationalarchives)
+
+The White House 
+: [https://github.com/whitehouse](https://github.com/whitehouse) 
+
+ =--
 
 
-</div>
+ +--{.span4}
+ 
+### State 
+ 
+New York State Senate
+: [https://github.com/nysenate](https://github.com/nysenate)
+
+### Civic Projects
+
+Open Gov Platform
+: [https://github.com/opengovplatform](https://github.com/opengovplatform)
+ 
+ =--
+
+
+ +--{.span4}
+ 
+### International
+ 
+Canada Web Experience Toolkit
+: [https://github.com/wet-boew](https://github.com/wet-boew)
+
+United Kingdom
+: [https://github.com/alphagov](https://github.com/alphagov)
+ 
+ =--
+
+
+=--
+
 
