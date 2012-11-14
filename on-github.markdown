@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agencies on Github
+title: Government on Github
 ---
 
 <!-- Going with HTML instead of Markdown so we can have the rad GitHub badges -->
