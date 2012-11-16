@@ -14,9 +14,9 @@ title: Getting Started with Git
 
 ### Software
 
-- [Git](http://git-scm.com/)
-- [Github:mac (Git client)](mac.github.com)
-- [Github:windows (Git client)](windows.github.com)
+- [Git](http://git-scm.com/) 
+- [Github:mac (Git client)](http://mac.github.com)
+- [Github:windows (Git client)](http://windows.github.com)
 
 ### Understanding Git and Github
 
