@@ -12,6 +12,12 @@ title: Getting Started with Git
 - [Learn Git in 15 Minutes (interactive tutorial)](http://try.github.com/)
 - [Pro Git (open source book)](http://git-scm.com/book)
 
+### Software
+
+- [Git](http://git-scm.com/)
+- [Github:mac (Git client)](mac.github.com)
+- [Github:windows (Git client)](windows.github.com)
+
 ### Understanding Git and Github
 
 - [Introduction to Git - Scott Chacon (video)](http://www.youtube.com/watch?v=ZDR433b0HJY)
