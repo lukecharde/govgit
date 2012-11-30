@@ -472,6 +472,10 @@ form h4 {
     text-align: left;
 }
 
+#comments {
+    margin: 75px 0 0 0;
+}
+
 
 /*** MEDIA QUERIES ****/
 
